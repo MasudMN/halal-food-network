@@ -3,7 +3,7 @@ body{
     font-family:'Poppins', sans-serif;
 }
  
-.color{color: orange;
+.color{color: rgb(228, 148, 0);
 } 
 
 h1{
@@ -74,7 +74,7 @@ h4 {padding-left: 10%;
 text-align: center;
 padding-right: 27%;
 padding-left:27%;
-margin-top: 10px;
+margin-top: 5px;
 
 }
 
@@ -123,6 +123,7 @@ p{
     margin-right: 100px;
     text-align: center;
     box-shadow: 5px 5px 40px gray;
+    border-radius: 7px;
 
 }
 
@@ -136,9 +137,10 @@ p{
 }
 
 
+
 .halal-food-network-mark{
     text-align: center; 
-    height: 50%;
+    height: 100%;
     width: 100%;
     background-color: black;
 }
