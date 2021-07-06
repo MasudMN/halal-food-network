@@ -2,7 +2,9 @@ body{
     margin:0%;
     font-family:'Poppins', sans-serif;
 }
-
+ 
+.color{color: orange;
+} 
 
 h1{
     font-size: 40px;
@@ -18,10 +20,10 @@ h1{
 
 .top-banner{
     background-image: url(shapes/Group\ 8450.png);
+    background-size: 450px;
     background-position: 8px;
     background-repeat: no-repeat;
 }
-
 
 
 .Order-now{
@@ -31,39 +33,114 @@ h1{
     border-radius: 10px;
     background-image: linear-gradient(tomato orange);
     color: rgb(0, 0, 0);
-    font-size: 14px;
+    font-size: 17px;
 }
 
 
-
-
-h1.about{
+h1 .about{
     padding-left: 30%;
-    width: 70%;    
+    height: 50px;
+    padding-top: 100px;
+    text-align: center;
+
+}
+
+
+.about-me{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-image: linear-gradient(tomato orange);
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+}
+
+
+.mid-banner{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 
 
-.color{color: orange;} 
-
-h4 { padding-left: 10%;
+h4 {padding-left: 10%;
     padding-right: 30%;
 }
 
+
+#center-paragraph-for-recipies{
+text-align: center;
+padding-right: 27%;
+padding-left:27%;
+margin-top: 10px;
+
+}
+
+
+.recipies-item{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 15px;
+    
+}
 
 p{
     padding-right: 20px;
 
 }
 
+
 .half-width{
     width: 100%;
-    margin: 10px;
+    margin-left: 40px;
+
 }
 
+.food-section{
+    margin: 50px;
+    box-shadow: 5px 5px 40px gray;
+    width: 40%;
+    
+}
 
-.footer{
+.food{
+    margin: 100px;
+}
+
+.food-marker{
+    margin-left:100px;
+    margin-right: 100px;
     text-align: center;
+    box-shadow: 5px 5px 40px gray;
+
 }
+
+.half-width-social-followers-counting{
+    width: 80%;
+    box-shadow: 10px 10px 80px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 1px;
+}
+
+
+.halal-food-network-mark{
+    text-align: center; 
+    height: 50%;
+    width: 100%;
+    background-color: black;
+}
+
+.footnote{
+    color: blanchedalmond;
+    text-align: center;
+    height: 50%;
+    width: 100%;
+    background-color: black;
+}
+
 
 
