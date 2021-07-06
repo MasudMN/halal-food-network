@@ -1,4 +1,56 @@
-body[
-    margin:0px;
-    font:
-]
+body{
+    margin:0%;
+    font-family:'Poppins', sans-serif;
+}
+
+
+h1{
+    font-size: 40px;
+    padding-left: 10%;
+
+}
+
+
+.flixible-container{
+    display: flex;
+    margin-bottom: 150px;
+    
+}
+
+
+h1.about{
+    padding-left: 19%;
+    width: 100%;    
+}
+
+
+.color{color: orange;} 
+
+h4 { padding-left: 10%;
+    padding-right: 30%;
+}
+
+
+p{
+    padding-right: 20px;
+
+}
+
+half-width img{
+    width: 5%;
+    margin: 20px;
+    padding-top: 40px;
+}
+
+
+#bigger-then-others{
+ font-size: 100px;
+ position: relative;
+ }
+
+
+.flex-container{
+    display:flex;
+    margin-bottom: 5%
+}
+
