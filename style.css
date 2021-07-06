@@ -10,18 +10,38 @@ h1{
 
 }
 
-
 .flixible-container{
     display: flex;
-    margin-bottom: 150px;
-    
+    margin-bottom: 100px;
+     
 }
+
+.top-banner{
+    background-image: url(shapes/Group\ 8450.png);
+    background-position: 8px;
+    background-repeat: no-repeat;
+}
+
+
+
+.Order-now{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-image: linear-gradient(tomato orange);
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+}
+
+
 
 
 h1.about{
-    padding-left: 19%;
-    width: 100%;    
+    padding-left: 30%;
+    width: 70%;    
 }
+
 
 
 .color{color: orange;} 
@@ -36,21 +56,14 @@ p{
 
 }
 
-half-width img{
-    width: 5%;
-    margin: 20px;
-    padding-top: 40px;
+.half-width{
+    width: 100%;
+    margin: 10px;
 }
 
 
-#bigger-then-others{
- font-size: 100px;
- position: relative;
- }
-
-
-.flex-container{
-    display:flex;
-    margin-bottom: 5%
+.footer{
+    text-align: center;
 }
+
 
