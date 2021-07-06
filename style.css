@@ -103,12 +103,13 @@ p{
     margin: 50px;
     box-shadow: 5px 5px 40px gray;
     width: 40%;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     
 }
 
-.food{
-    margin: 100px;
-}
 
 .food-marker{
     margin-left:100px;
@@ -124,6 +125,7 @@ p{
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 1px;
+    border-radius: 15px;
 }
 
 
